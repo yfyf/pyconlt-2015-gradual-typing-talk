@@ -5,6 +5,8 @@
 
 [PyConLT 2015](http://pycon.lt)
 
+[Slide source](https://github.com/yfyf/pyconlt-2015-gradual-typing-talk)
+
 2015-02-25
 
 # `/whois yfyf`
