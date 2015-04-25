@@ -1,0 +1,2 @@
+class MegaBool(bool):
+    pass
