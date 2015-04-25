@@ -47,6 +47,25 @@ Resources
 * Gradual evolution:
     http://cacm.acm.org/magazines/2014/10/178775-gradual-evolution/fulltext
     [resources/.pdf]
+* Thesis on typing Python:
+    http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.90.3231
+* "Why Python is slow"
+    https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/
+* Python internals:
+    http://blog.christianperone.com/?p=2171
+* Google pytype:
+    https://github.com/google/pytype/
+* typeannotations:
+    https://github.com/ceronman/typeannotations
+* stubgen:
+    https://github.com/ashleyh/mypy-stubgen
+* mypy-stubgen:
+    https://github.com/JukkaL/mypy/blob/master/mypy/stubgen.py
+* types SIG:
+    https://www.python.org/community/sigs/retired/types-sig/
+* GvR @ PyCon2015
+* Bob @ EuroPython 2014
+
 
 
 Presentation ideas
