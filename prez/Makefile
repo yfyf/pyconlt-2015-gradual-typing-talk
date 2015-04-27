@@ -27,11 +27,5 @@ all: slides.html
 
 template.html: $(THEMECSS) | $(REVEALJSDIR)
 
-$(CSSDIR)/templates:
-	ln -s ../reveal.js/css/theme/template $@
-
-%.css: %.scss | $(CSSDIR)/templates
-	sass $< > $@
-
 $(REVEALJSDIR):
 	git clone $(REVEALJSREPO) $(REVEALJSDIR)
